@@ -5,7 +5,7 @@
 #   dir1
 #   dir2
 #   dir3
-#   dir4
+#       dir4
 
 mkdir -p ./task/dir1 ./task/dir2 ./task/dir3 ./task/dir4
 
